@@ -1,8 +1,8 @@
 # FTC-14607-Website
 
 ## Credits
-From https://github.com/2024eli/ftc-website-14607
-Converted to React.js by UsernameDP (Devin) from https://github.com/UsernameDP/FTC-14607-Website
+From https://github.com/2024eli/ftc-website-14607 \
+Converted to React.js by UsernameDP (Devin) from https://github.com/UsernameDP/FTC-14607-Website \
 * 2024 - 2025: UsernameDP (Devin Park), R-Tacoz (Rocco Zhang)
 * 2023 - 2024: 2024eli (Evelyn Li), UsernameDP (Devin Park)
 
